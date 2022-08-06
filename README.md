@@ -1,13 +1,13 @@
 # Applicant-Tracking-Software-Research
 
 
-Applicant Tracking Software Research
+                                                          Applicant Tracking Software Research
 
 
-Venkata Ashok Kumar Reddy Maram
-Graduate & Prof Skill Development
-New England College
-August 05, 2022
+                                                            Venkata Ashok Kumar Reddy Maram
+                                                            Graduate & Prof Skill Development
+                                                                 New England College
+                                                                  August 05, 2022
 
 
 
@@ -22,10 +22,10 @@ Research databases do aim to offer user for getting access to thousands of magaz
 The dependency on manual process, poor collaboration can be seen with recruitment team and miscommunication with some of the hiring stakeholders. It helps in revealing that applicants do move slow rate by making use of hiring process (Banshwar et al., 2021). This applicant tracking system do create some opportunities for automating manual process, enhance visibility into the hiring cycle for the whole recruitment team. All this can ultimately enhance opportunity where communication can be considered within candidate journey. 
 Recruit ahead of the curve by establishment of structured hiring process. Building an effective talent pipeline, source candidate can allow candidate even much faster than ever. This can harness overall power of data and provide a much great deal candidate experience. Right form identifying talent to mapping behavioral assessment of candidates. Selected right talent with an AI-powered recruiting assistant (UMOSO, 2021). Effectively plans can workdays, even on your commute. Managing candidate, client, and contacts effortlessly and scheduling an interview on tap. The future companies will be based on attracting top talent in present situation. The key focus is on accessing swaths for talent pool with present with application tracking software. All this aim in enhance the overall quality of employees and hiring referrals. 
 An ATS tracking system do provides a range of solutions for meeting up the hiring challenges encountered by recruiters (Lindström, 2018). This do range from sourcing to analyzing to selecting the best available candidate applicant tracking system which can help in enhancing experience of candidate.  
- 
-References
+
+
+
+                                                                   References
 Banshwar, A., Patel, A., Singh, K. P., Sharma, N. K., Sharma, B. B., & Pathak, M. (2021, April). An Efficient Approach for Ambulance Tracking System using GPS and GSM. In Journal of Physics: Conference Series (Vol. 1854, No. 1, p. 012009). IOP Publishing. https://iopscience.iop.org/article/10.1088/1742-6596/1854/1/012009/pdf 
 Lindström, J. (2018). ATS in supporting positive Employer Brand: How can Applicant Tracking System support in building Employer Brand?. https://www.theseus.fi/bitstream/handle/10024/147185/Thesis.pdf?sequence=1 
 UMOSO, C. M. (2021). Ats Analysis, Design and Development of the Alumni Tracking System of the Licerio Antiporda Sr. National High School-Dalaya Extension. International Journal of Arts, Sciences and Education, 2(1), 15-31. https://ijase.org/index.php/ijase/article/download/45/44 
-
-
